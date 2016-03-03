@@ -1,0 +1,13 @@
+{
+    "name": "jw/jwtimezone",
+    "description": "timezone package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mark Xu",
+            "email": "isafesoft@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
